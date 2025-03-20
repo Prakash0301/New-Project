@@ -1,0 +1,22 @@
+# Ignore everything
+*
+
+# Allow specific file types
+!*.tf
+!*.html
+!*.py
+!*.json
+!*.sh
+!*.yaml
+!*.yml
+!*.md
+!*.txt
+!*.csv
+!*.tfvars
+!*.tfstate
+!*.tfstate.backup
+!*.tfstate.backup.*
+!*.tfstate.backup.*.json
+
+# Allow specific directories
+
